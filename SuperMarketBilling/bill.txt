@@ -1,0 +1,12 @@
+//This is an example of bill txt that will be created
+
+  soap : 100 : 0
+
+	 Egg : 30 : 20
+
+	 Tea : 50 : 10
+
+	 Chicken : 180 : 2
+
+	 Cheese : 100 : 5
+
